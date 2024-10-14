@@ -1,0 +1,572 @@
+sexo,grupo_etario,jurisdiccion_residencia,jurisdiccion_residencia_id,depto_residencia,depto_residencia_id,jurisdiccion_aplicacion,jurisdiccion_aplicacion_id,depto_aplicacion,depto_aplicacion_id,fecha_aplicacion,vacuna,cod_dosis_generica,nombre_dosis_generica,condicion_aplicacion,orden_dosis,lote_vacuna,id_persona_dw,OBSERVACION
+M,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-26,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FN0087,14150393991.0,Orden de dosis no coincide
+M,40-49,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-01-14,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,LZT9LZU1,14129632475.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,Pilar,638,2023-10-10,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,013K22A,14015541869.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2021-12-27,AstraZeneca,14,Refuerzo,60 o más años,4,NL0053,14072771367.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-01-27,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940920,14102314115.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-02-22,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,MBK1MBK2,14005799161.0,Orden de dosis no coincide
+M,70-79,Entre Ríos,30,San Salvador,088,Entre Ríos,30,San Salvador,088,2022-01-27,Sputnik,14,Refuerzo,60 o más años,7,II-640821,14146458973.0,Orden de dosis no coincide
+F,70-79,Entre Ríos,30,Paraná,084,Entre Ríos,30,Paraná,084,2022-12-20,Moderna ARNm 020 mg mL,14,Refuerzo,CON Factores de Riesgo,4,045C22A,14131839757.0,Orden de dosis no coincide
+M,12-17,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-07-30,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14159389663.0,Orden de dosis no coincide
+F,60-69,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-04-05,Pfizer,14,Refuerzo,60 o más años,4,FN3815,14039248779.0,Orden de dosis no coincide
+F,40-49,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2023-01-10,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,005D22A,14146361507.0,Orden de dosis no coincide
+F,50-59,Tucumán,90,Yerba Buena,119,Tucumán,90,Yerba Buena,119,2023-04-28,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,400086A,14099019409.0,Orden de dosis no coincide
+M,40-49,Santiago del Estero,86,Pellegrini,133,Santiago del Estero,86,Pellegrini,133,2022-02-23,Cansino,1,Unica,40 a 49 años SIN Factores de Riesgo,1,NCOV202105008V,14123880543.0,Nombre de dosis generica no registrado
+F,60-69,Buenos Aires,06,Monte,547,Buenos Aires,06,Monte,547,2024-01-24,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,020L22-2A,14127292165.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2023-02-09,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GJ2544,14100344585.0,Orden de dosis no coincide
+F,60-69,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2023-02-10,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14146688181.0,Orden de dosis no coincide
+M,40-49,Córdoba,14,Capital,014,Córdoba,14,Río Cuarto,098,2022-06-27,Moderna ARNm 020 mg mL,14,Refuerzo,Estratégico,4,053M21A,14144555641.0,Orden de dosis no coincide
+M,40-49,Neuquén,58,Confluencia,035,Neuquén,58,Añelo,014,2023-02-16,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14155075677.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Quilmes,658,Buenos Aires,06,Avellaneda,035,2022-01-06,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,77884,14144097421.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,Chacabuco,210,Buenos Aires,06,Chacabuco,210,2022-01-06,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14101566945.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,Quilmes,658,Buenos Aires,06,Quilmes,658,2022-03-12,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN1455,14151633359.0,Orden de dosis no coincide
+M,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2024-02-05,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,021M22A,14013815899.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,Luján,497,Buenos Aires,06,Luján,497,2022-01-05,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14152066255.0,Orden de dosis no coincide
+M,50-59,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-01-07,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,78214,14156736119.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,Lanús,434,CABA,02,COMUNA 4,004,2022-03-05,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,210581,14138873143.0,Orden de dosis no coincide
+F,30-39,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-24,Moderna ARNm 020 mg mL,14,Refuerzo,Salud,4,085M21A,14135192211.0,Orden de dosis no coincide
+M,40-49,Entre Ríos,30,Paraná,084,Entre Ríos,30,Paraná,084,2022-03-11,Moderna ARNm 020 mg mL,14,Refuerzo,40 a 49 años SIN Factores de Riesgo,4,940920,14101425309.0,Orden de dosis no coincide
+M,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-02,AstraZeneca,12,Adicional,60 o más años,3,78214,14142279501.0,Nombre de dosis generica no registrado
+M,40-49,Jujuy,38,Humahuaca,028,Jujuy,38,Humahuaca,028,2024-03-12,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,021M22A,14102502157.0,Orden de dosis no coincide
+F,70-79,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-12-05,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14133873611.0,Orden de dosis no coincide
+F,18-29,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-12-22,Moderna ARNm 020 mg mL,14,Refuerzo,CON Factores de Riesgo,4,045C22A,14140504355.0,Orden de dosis no coincide
+M,30-39,Salta,66,Capital,028,Salta,66,Capital,028,2023-05-04,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,400098A,14141549227.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Cañuelas,134,Buenos Aires,06,Ezeiza,270,2023-01-05,Moderna ARNm 020 mg mL,14,Refuerzo,Otros,4,045C22A,14128687071.0,Orden de dosis no coincide
+F,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2022-08-08,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14065064079.0,Orden de dosis no coincide
+F,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2023-05-31,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,400098A,14071093237.0,Orden de dosis no coincide
+F,30-39,Córdoba,14,Tercero Arriba,161,Córdoba,14,Tercero Arriba,161,2022-03-28,Cansino,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,2,NCOV202105009V,14014673537.0,Orden de dosis no coincide
+F,40-49,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-16,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,12016047629.0,Orden de dosis no coincide
+M,70-79,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2022-01-03,AstraZeneca,14,Refuerzo,60 o más años,4,77947,14150799377.0,Orden de dosis no coincide
+M,12-17,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-20,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14066904103.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-03-25,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940920,14098573231.0,Orden de dosis no coincide
+M,12-17,Buenos Aires,06,Rivadavia,679,Buenos Aires,06,Rivadavia,679,2022-03-23,Moderna ARNm 020 mg mL,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,940885,14159328979.0,Orden de dosis no coincide
+F,70-79,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-07-29,Sputnik,14,Refuerzo,CON Factores de Riesgo,6,MDN6MDN7,14132508511.0,Orden de dosis no coincide
+F,<12,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-07-05,Pfizer Pediátrica,12,Adicional,CON Factores de Riesgo,3,FR8392,14159850759.0,Nombre de dosis generica no registrado
+F,40-49,Salta,66,Capital,028,Salta,66,Capital,028,2022-09-10,Moderna ARNm 020 mg mL,14,Refuerzo,Viaje,2,069B22A,14136271279.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,Malvinas Argentinas,515,2022-02-09,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14058994343.0,Orden de dosis no coincide
+M,18-29,Salta,66,Capital,028,Salta,66,Capital,028,2022-02-09,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,4,940920,12014378967.0,Orden de dosis no coincide
+M,12-17,Santa Fe,82,San Martín,126,Santa Fe,82,San Martín,126,2022-04-04,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FN1672,14068098835.0,Orden de dosis no coincide
+M,50-59,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-01-12,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN3815,14095570119.0,Orden de dosis no coincide
+F,18-29,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-05-27,Pfizer,14,Refuerzo,Otros,4,FN1672,14005611641.0,Orden de dosis no coincide
+F,60-69,Entre Ríos,30,Federal,035,Entre Ríos,30,Federal,035,2022-01-13,Sputnik,14,Refuerzo,60 o más años,4,MBI6MBI7,14152592631.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-05-27,Sputnik,2,1ra,SIN Factores de Riesgo,4,MCY8MCY9,14148754183.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,Luján,497,Buenos Aires,06,Luján,497,2022-01-13,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN3815,14102168025.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,San Fernando,749,CABA,02,COMUNA 4,004,2022-06-23,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14141184515.0,Orden de dosis no coincide
+F,18-29,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2023-01-05,Moderna ARNm 020 mg mL,14,Refuerzo,Otros,5,005D22A,12009679807.0,Orden de dosis no coincide
+F,50-59,Córdoba,14,Marcos Juárez,063,Córdoba,14,Marcos Juárez,063,2022-03-03,AstraZeneca,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,78214,14096740177.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,Bragado,112,Buenos Aires,06,Bragado,112,2022-01-04,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14102239463.0,Orden de dosis no coincide
+M,30-39,Salta,66,Capital,028,Salta,66,Capital,028,2023-03-14,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,400098A,14134734803.0,Orden de dosis no coincide
+F,50-59,Chaco,22,Chacabuco,028,Chaco,22,Chacabuco,028,2021-12-30,Sputnik,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,LYN5LYN6,14009096473.0,Orden de dosis no coincide
+F,60-69,Entre Ríos,30,Paraná,084,Entre Ríos,30,Paraná,084,2022-01-04,AstraZeneca,14,Refuerzo,60 o más años,4,NL0181,14151437431.0,Orden de dosis no coincide
+M,50-59,Santiago del Estero,86,Choya,063,Santiago del Estero,86,Choya,063,2022-06-06,Cansino,14,Refuerzo,SIN Factores de Riesgo,2,NCOV202110014VT,14141875185.0,Orden de dosis no coincide
+F,30-39,Santa Fe,82,Iriondo,056,Santa Fe,82,Iriondo,056,2022-12-29,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,045C22A,14139412851.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,Berazategui,091,Buenos Aires,06,Berazategui,091,2022-01-12,Pfizer,14,Refuerzo,60 o más años,4,FJ8198,14069778499.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-01-31,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,I-590821,14155697397.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-02-14,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14069709185.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,Luján,497,Buenos Aires,06,Luján,497,2022-02-10,Sputnik,14,Refuerzo,60 o más años,4,MCG1MCG2,14047156969.0,Orden de dosis no coincide
+F,40-49,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-02-11,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN1455,14049594775.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,Lanús,434,Buenos Aires,06,Lanús,434,2021-12-28,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14129595343.0,Orden de dosis no coincide
+M,<12,Buenos Aires,06,Lanús,434,Buenos Aires,06,Lanús,434,2022-06-01,Pfizer Pediátrica,12,Adicional,CON Factores de Riesgo,3,FP9643,14145294615.0,Nombre de dosis generica no registrado
+F,30-39,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-12-29,Moderna ARNm 020 mg mL,14,Refuerzo,CON Factores de Riesgo,4,045C22A,14125932553.0,Orden de dosis no coincide
+M,40-49,CABA,02,COMUNA 12,012,Buenos Aires,06,Morón,568,2021-12-16,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,NL0053,14152772443.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-01-24,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940885,14153502601.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2023-03-20,Pfizer Bivariante BA 4 5,14,Refuerzo,Salud,1,GJ2544,14139691689.0,Orden de dosis no coincide
+M,12-17,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-03-26,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FP0265,14045357313.0,Orden de dosis no coincide
+M,18-29,Córdoba,14,Colón,021,Córdoba,14,Colón,021,2022-07-01,Moderna ARNm 020 mg mL,14,Refuerzo,Estratégico,4,085M21A,14066436807.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2024-04-29,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,2F3017B,14058181703.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-01-13,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14078597257.0,Orden de dosis no coincide
+F,30-39,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-02-04,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,7,II-640821,14030896305.0,Orden de dosis no coincide
+F,70-79,Santa Fe,82,San Lorenzo,119,Santa Fe,82,San Lorenzo,119,2022-01-11,Pfizer,12,Adicional,18 a 59 años CON Factores de Riesgo,3,FN3815,14017201621.0,Nombre de dosis generica no registrado
+M,30-39,Buenos Aires,06,La Matanza,427,Buenos Aires,06,La Matanza,427,2022-02-10,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ4188,14048635839.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2022-02-16,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14068287517.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2023-04-29,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,400098A,14002067443.0,Orden de dosis no coincide
+F,18-29,Santa Fe,82,Rosario,084,Santa Fe,82,Rosario,084,2022-01-19,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940915,14080010227.0,Orden de dosis no coincide
+M,40-49,Salta,66,Capital,028,Salta,66,Capital,028,2023-03-29,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,400098A,14018831613.0,Orden de dosis no coincide
+F,80-89,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2023-04-03,Pfizer Bivariante BA 4 5,14,Refuerzo,Otros,1,GJ2544,14002894407.0,Orden de dosis no coincide
+M,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2023-03-31,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GJ2544,14144477813.0,Orden de dosis no coincide
+M,12-17,Córdoba,14,Colón,021,Buenos Aires,06,La Plata,441,2022-03-09,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FP0265,12004446205.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,Luján,497,Buenos Aires,06,Luján,497,2022-01-03,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,NN0195,14145267803.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,La Costa,420,Buenos Aires,06,La Costa,420,2023-03-31,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GJ2544,14003829167.0,Orden de dosis no coincide
+F,80-89,Córdoba,14,Río Cuarto,098,CABA,02,COMUNA 4,004,2022-08-18,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14144189257.0,Orden de dosis no coincide
+M,18-29,Salta,66,Capital,028,Salta,66,Capital,028,2023-09-21,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,013K22A,14044430507.0,Orden de dosis no coincide
+M,18-29,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-02-24,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,4,940915,1828321.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,Malvinas Argentinas,515,2022-01-04,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,14137155197.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-01-04,Pfizer,14,Refuerzo,60 o más años,4,FJ8198,14147321463.0,Orden de dosis no coincide
+F,40-49,Salta,66,Grl. José de San Martín,056,Salta,66,Grl. José de San Martín,056,2022-01-14,Cansino,1,Unica,SIN Factores de Riesgo,1,NCOV202106035V,14158915801.0,Nombre de dosis generica no registrado
+F,40-49,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-03-12,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FP0265,14058135393.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-02-09,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,MCG1MCG2,14005716253.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Cañuelas,134,2022-05-02,Cansino,14,Refuerzo,Estratégico,2,NCOV202105007V,14050068307.0,Orden de dosis no coincide
+M,40-49,Córdoba,14,Capital,014,La Rioja,46,Capital,014,2022-01-11,Moderna ARNm 020 mg mL,14,Refuerzo,40 a 49 años SIN Factores de Riesgo,4,940915,14146035317.0,Orden de dosis no coincide
+F,18-29,Mendoza,50,San Martín,098,Mendoza,50,San Martín,098,2023-11-30,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,014K22A,14158789793.0,Orden de dosis no coincide
+F,12-17,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-02-11,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FN0087,14156996277.0,Orden de dosis no coincide
+M,50-59,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2023-04-14,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14097546113.0,Orden de dosis no coincide
+M,<12,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-09-30,Pfizer Pediátrica,12,Adicional,CON Factores de Riesgo,3,FW0201,14161857545.0,Nombre de dosis generica no registrado
+M,70-79,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-01-07,Pfizer,14,Refuerzo,60 o más años,4,FK8892,14145847665.0,Orden de dosis no coincide
+M,30-39,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-28,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,087M21A,14146358261.0,Orden de dosis no coincide
+F,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2024-02-06,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,021M22A,14043122789.0,Orden de dosis no coincide
+F,70-79,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2024-02-01,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,003M22A,14146822765.0,Orden de dosis no coincide
+F,12-17,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2023-08-12,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,2I003A,14059919479.0,Orden de dosis no coincide
+M,60-69,La Rioja,46,Capital,014,Catamarca,10,Capital,049,2023-11-09,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,400123A,14094318531.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-01-06,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,14077760459.0,Orden de dosis no coincide
+M,70-79,Mendoza,50,Capital,007,Mendoza,50,Las Heras,049,2021-12-28,Sputnik,14,Refuerzo,60 o más años,4,I-590821,14149741941.0,Orden de dosis no coincide
+F,60-69,Entre Ríos,30,Federal,035,Entre Ríos,30,Federal,035,2022-06-09,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14094318045.0,Orden de dosis no coincide
+F,70-79,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-03-26,Pfizer,14,Refuerzo,60 o más años,4,FP0265,14123006479.0,Orden de dosis no coincide
+F,12-17,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-03-07,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FN1672,14159368439.0,Orden de dosis no coincide
+M,40-49,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-07-11,Cansino,14,Refuerzo,SIN Factores de Riesgo,2,NCOV202110014VT,1851477.0,Orden de dosis no coincide
+F,80-89,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-13,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14145369521.0,Orden de dosis no coincide
+M,40-49,CABA,02,COMUNA 12,012,CABA,02,COMUNA 4,004,2022-06-22,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14149456295.0,Orden de dosis no coincide
+F,30-39,San Juan,70,Rivadavia,084,San Juan,70,Chimbas,042,2022-08-01,Cansino,14,Refuerzo,SIN Factores de Riesgo,2,NCOV202109013VT,14073584263.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,Lanús,434,Buenos Aires,06,General San Martín,371,2022-01-05,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,77884,-57403.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2022-03-11,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FP0265,14008344407.0,Orden de dosis no coincide
+M,50-59,Entre Ríos,30,Paraná,084,Entre Ríos,30,Paraná,084,2022-03-15,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FN1455,14097809327.0,Orden de dosis no coincide
+F,12-17,Entre Ríos,30,San Salvador,088,Entre Ríos,30,San Salvador,088,2022-03-04,Moderna ARNm 020 mg mL,14,Refuerzo,12 a 17 años SIN Factores de Riesgo,4,940885,14061374091.0,Orden de dosis no coincide
+M,60-69,Córdoba,14,Punilla,091,Córdoba,14,Punilla,091,2022-01-05,Pfizer,12,Adicional,60 o más años,3,FL7309,14126505731.0,Nombre de dosis generica no registrado
+M,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2023-03-28,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,400098A,14096712987.0,Orden de dosis no coincide
+M,18-29,Santa Fe,82,San Jerónimo,105,Santa Fe,82,San Jerónimo,105,2022-08-17,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,12014817537.0,Orden de dosis no coincide
+M,12-17,Mendoza,50,Las Heras,049,Mendoza,50,Las Heras,049,2022-03-11,Moderna ARNm 020 mg mL,14,Refuerzo,12 a 17 años SIN Factores de Riesgo,4,940915,14017105161.0,Orden de dosis no coincide
+F,30-39,Córdoba,14,Capital,014,Córdoba,14,Santa María,147,2022-01-07,Pfizer,12,Adicional,18 a 59 años CON Factores de Riesgo,3,FK8888,14074553543.0,Nombre de dosis generica no registrado
+M,12-17,Buenos Aires,06,La Matanza,427,Buenos Aires,06,La Matanza,427,2022-03-15,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FP0265,14159399447.0,Orden de dosis no coincide
+F,60-69,San Juan,70,Capital,028,San Juan,70,Capital,028,2022-01-07,Sputnik,14,Refuerzo,60 o más años,4,MBQ6MBQ7,14136806459.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2024-01-30,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,003M22A,14093938329.0,Orden de dosis no coincide
+M,70-79,Salta,66,Capital,028,Salta,66,Capital,028,2021-12-16,Pfizer,14,Refuerzo,60 o más años,4,FL7309,14125617843.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,Bragado,112,Buenos Aires,06,Bragado,112,2022-01-06,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14152935563.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2024-01-29,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,003M22A,14043271977.0,Orden de dosis no coincide
+F,50-59,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-26,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FK8892,14141717887.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,Baradero,070,Buenos Aires,06,Baradero,070,2022-01-20,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14138019091.0,Orden de dosis no coincide
+F,18-29,Córdoba,14,San Justo,140,Córdoba,14,San Justo,140,2022-01-31,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,12009926911.0,Orden de dosis no coincide
+F,40-49,San Juan,70,Rivadavia,084,San Juan,70,Rivadavia,084,2022-01-14,Moderna ARNm 020 mg mL,12,Adicional,18 a 59 años CON Factores de Riesgo,3,940915,12009483205.0,Nombre de dosis generica no registrado
+M,50-59,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2022-01-26,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940885,14076659681.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,Quilmes,658,Buenos Aires,06,Quilmes,658,2022-01-21,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14074899197.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,Magdalena,505,Buenos Aires,06,Magdalena,505,2022-01-17,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14152770609.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-01-14,Pfizer,14,Refuerzo,60 o más años,4,FJ8198,14146221971.0,Orden de dosis no coincide
+F,12-17,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-07-26,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,12006438523.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-01-05,AstraZeneca,14,Refuerzo,60 o más años,4,77947,14094302699.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,Salliqueló,721,Buenos Aires,06,Salliqueló,721,2022-01-03,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14006469319.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,Quilmes,658,Buenos Aires,06,Lanús,434,2022-02-25,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940915,14149819593.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,La Matanza,427,Buenos Aires,06,La Matanza,427,2024-02-19,Moderna Bivariante BA 4 5,14,Refuerzo,Estratégico,1,003M22A,14156242691.0,Orden de dosis no coincide
+F,70-79,Córdoba,14,Unión,182,Córdoba,14,Unión,182,2022-03-18,Moderna ARNm 020 mg mL,14,Refuerzo,60 o más años,5,940885,14127265749.0,Orden de dosis no coincide
+F,90-99,Buenos Aires,06,Pilar,638,Buenos Aires,06,Luján,497,2023-01-17,Moderna ARNm 020 mg mL,14,Refuerzo,CON Factores de Riesgo,3,007D22A,14144900367.0,ID de persona ya existe en los registros
+M,12-17,Santa Fe,82,La Capital,063,Santa Fe,82,La Capital,063,2022-11-09,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14127446221.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2024-04-22,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,2F3017B,14096323599.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,Lanús,434,Buenos Aires,06,General Belgrano,301,2022-01-23,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN3815,14135010151.0,Orden de dosis no coincide
+S.I.,60-69,Chaco,22,General Belgrano,049,Chaco,22,General Belgrano,049,2022-03-17,Sinopharm,3,2da,SIN Factores de Riesgo,2,202108B2236,14133175189.0,Sexo no especificado
+F,50-59,Mendoza,50,Capital,007,Mendoza,50,Capital,007,2022-01-11,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,78214,14006473001.0,Orden de dosis no coincide
+F,80-89,Misiones,54,Leandro N. Alem,070,Misiones,54,Capital,028,2021-12-07,AstraZeneca,14,Refuerzo,60 o más años,4,NL0123,14147811385.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,Trenque Lauquen,826,Buenos Aires,06,Trenque Lauquen,826,2022-02-10,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940915,14069886839.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,Lobería,476,Buenos Aires,06,Lobería,476,2022-01-19,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,MCF7MCF8,14001322443.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,Villarino,875,Buenos Aires,06,Villarino,875,2022-01-17,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14047678775.0,Orden de dosis no coincide
+F,30-39,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-28,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14155295953.0,Orden de dosis no coincide
+F,<12,Salta,66,Capital,028,Salta,66,Capital,028,2024-03-12,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,021M22A,14063121897.0,Orden de dosis no coincide
+F,40-49,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2023-03-23,Pfizer Bivariante BA 4 5,14,Refuerzo,Salud,1,GJ2544,14140550855.0,Orden de dosis no coincide
+F,70-79,Salta,66,Capital,028,Salta,66,Capital,028,2023-05-19,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM3740,14117340503.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Salliqueló,721,Buenos Aires,06,Salliqueló,721,2022-01-03,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14045303817.0,Orden de dosis no coincide
+F,70-79,Mendoza,50,San Martín,098,Mendoza,50,San Martín,098,2023-07-19,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,400098A,14149428665.0,Orden de dosis no coincide
+M,50-59,Santa Fe,82,San Cristóbal,091,Santiago del Estero,86,Rivadavia,154,2022-12-22,Moderna ARNm 020 mg mL,14,Refuerzo,CON Factores de Riesgo,4,045C22A,14004247923.0,Orden de dosis no coincide
+M,30-39,Córdoba,14,Capital,014,Córdoba,14,General San Martín,042,2023-01-16,Moderna ARNm 020 mg mL,14,Refuerzo,Estratégico,4,005D22A,14131251879.0,Orden de dosis no coincide
+M,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2023-02-07,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GJ2544,14139185903.0,Orden de dosis no coincide
+M,40-49,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2024-07-05,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,2I003A,14138635583.0,Orden de dosis no coincide
+M,30-39,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2023-01-25,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14143407553.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2023-02-24,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14093055573.0,Orden de dosis no coincide
+M,40-49,Salta,66,Molinos,119,Salta,66,Molinos,119,2023-02-01,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14006047439.0,Orden de dosis no coincide
+F,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-17,Sputnik,14,Refuerzo,60 o más años,7,MCG7MCG8,14142201375.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,Trenque Lauquen,826,Buenos Aires,06,Trenque Lauquen,826,2022-02-06,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940915,14015968311.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,Vicente López,861,Buenos Aires,06,Vicente López,861,2022-01-03,Pfizer,12,Adicional,50 a 59 años SIN Factores de Riesgo,3,FJ8198,14096820143.0,Nombre de dosis generica no registrado
+M,40-49,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-03,Cansino,1,Unica,40 a 49 años SIN Factores de Riesgo,1,NCOV202106035V,14064836917.0,Nombre de dosis generica no registrado
+F,80-89,Salta,66,Anta,007,Salta,66,Anta,007,2023-01-02,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,007D22A,14060326209.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,Florencio Varela,274,Buenos Aires,06,Florencio Varela,274,2023-02-06,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GK4367,14099360825.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2021-11-10,AstraZeneca,14,Refuerzo,60 o más años,4,NK0224,14094242573.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-09-07,Cansino,14,Refuerzo,SIN Factores de Riesgo,2,NCOV202110014VT,14147374877.0,Orden de dosis no coincide
+F,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2021-12-29,Sputnik,12,Adicional,60 o más años,3,LZR9LZS1,14092939525.0,Nombre de dosis generica no registrado
+F,60-69,CABA,02,COMUNA 12,012,CABA,02,COMUNA 4,004,2022-08-22,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14094019827.0,Orden de dosis no coincide
+M,60-69,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2024-01-09,Moderna Bivariante BA 4 5,14,Refuerzo,Salud,1,020L22-2A,14068221785.0,Orden de dosis no coincide
+F,12-17,Buenos Aires,06,Chacabuco,210,Buenos Aires,06,Chacabuco,210,2022-02-28,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FN1672,14067511529.0,Orden de dosis no coincide
+F,40-49,Mendoza,50,San Martín,098,Mendoza,50,Capital,007,2023-07-10,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,2I003A,14140963187.0,Orden de dosis no coincide
+M,80-89,Salta,66,Capital,028,Salta,66,Capital,028,2022-07-25,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14042798475.0,Orden de dosis no coincide
+M,40-49,Chaco,22,San Lorenzo,147,Chaco,22,San Lorenzo,147,2022-01-12,Moderna ARNm 020 mg mL,14,Refuerzo,40 a 49 años SIN Factores de Riesgo,4,940885,14126325409.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,Lanús,434,CABA,02,COMUNA 4,004,2022-03-09,AstraZeneca,14,Refuerzo,60 o más años,4,210584,14147224519.0,Orden de dosis no coincide
+M,50-59,Córdoba,14,General San Martín,042,Córdoba,14,General San Martín,042,2022-01-06,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FL7309,14096609583.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-01-06,Pfizer,14,Refuerzo,60 o más años,4,FK8892,14094672069.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,Bragado,112,Buenos Aires,06,Chivilcoy,224,2022-01-25,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940885,12015068511.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,Bolívar,105,Buenos Aires,06,La Plata,441,2022-02-22,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940920,14068290729.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2023-10-02,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,013K22A,14147338927.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,Salliqueló,721,Buenos Aires,06,Salliqueló,721,2024-03-06,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,003M22A,14095549993.0,Orden de dosis no coincide
+M,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-08,AstraZeneca,14,Refuerzo,60 o más años,4,78214,14145808735.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2024-01-22,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,003M22A,13999971731.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,Lanús,434,Buenos Aires,06,Lanús,434,2022-01-25,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN1672,14010127243.0,Orden de dosis no coincide
+F,50-59,Río Negro,62,General Roca,042,Río Negro,62,General Roca,042,2022-02-28,Sputnik,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,MCY5MCY6,14099133667.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2022-06-30,Cansino,14,Refuerzo,SIN Factores de Riesgo,2,NCOV202109013VT,14144287111.0,Orden de dosis no coincide
+F,50-59,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-12-02,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14065175819.0,Orden de dosis no coincide
+M,<12,Buenos Aires,06,Chacabuco,210,Buenos Aires,06,Chacabuco,210,2022-05-31,Pfizer Pediátrica,12,Adicional,CON Factores de Riesgo,3,FN4075,12006160991.0,Nombre de dosis generica no registrado
+M,12-17,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2023-02-23,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14142845293.0,Orden de dosis no coincide
+M,80-89,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-07-29,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,087M21A,14128788607.0,Orden de dosis no coincide
+F,50-59,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2024-02-07,Moderna Bivariante BA 4 5,14,Refuerzo,Estratégico,1,021M22A,14147742329.0,Orden de dosis no coincide
+M,30-39,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-01-07,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,1814247.0,Orden de dosis no coincide
+M,50-59,Córdoba,14,Tercero Arriba,161,Córdoba,14,Tercero Arriba,161,2022-01-07,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,77884,14148534911.0,Orden de dosis no coincide
+M,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2024-01-26,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,003M22A,14038132819.0,Orden de dosis no coincide
+F,18-29,Mendoza,50,San Martín,098,Mendoza,50,San Martín,098,2022-03-28,Cansino,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,2,NCOV202105009V,14140835229.0,Orden de dosis no coincide
+F,50-59,San Juan,70,Capital,028,San Juan,70,Capital,028,2022-01-13,Moderna ARNm 020 mg mL,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,940915,14030744447.0,Orden de dosis no coincide
+M,70-79,Buenos Aires,06,La Costa,420,Buenos Aires,06,La Costa,420,2022-01-12,Pfizer,14,Refuerzo,60 o más años,4,FN3815,14132059125.0,Orden de dosis no coincide
+F,50-59,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-01-22,Sputnik,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,7,MCG7MCG8,14014748205.0,Orden de dosis no coincide
+M,40-49,Mendoza,50,Guaymallén,028,Mendoza,50,Guaymallén,028,2022-02-01,Sputnik,3,2da,18 a 59 años CON Factores de Riesgo,6,MCG7MCG8,14162367145.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,Luján,497,Buenos Aires,06,Luján,497,2024-04-24,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM6301,14073034313.0,Orden de dosis no coincide
+S.I.,80-89,Salta,66,Capital,028,Salta,66,Capital,028,2022-02-09,Pfizer,14,Refuerzo,60 o más años,4,FN1455,14157893073.0,Orden de dosis no coincide
+F,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-06,Sputnik,14,Refuerzo,60 o más años,4,MDB6MDB7,14148350363.0,Orden de dosis no coincide
+F,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-03,AstraZeneca,14,Refuerzo,60 o más años,4,78214,14144276111.0,Orden de dosis no coincide
+F,40-49,Córdoba,14,Colón,021,Córdoba,14,Colón,021,2022-01-31,Cansino,1,Unica,40 a 49 años SIN Factores de Riesgo,1,NCOV202105007V,14062504135.0,Nombre de dosis generica no registrado
+F,18-29,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Banda,035,2022-01-15,Sputnik,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,6,MBQ9MBR1,14023100367.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-02-03,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940885,14074973535.0,Orden de dosis no coincide
+M,70-79,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-01-13,Pfizer,14,Refuerzo,60 o más años,4,FJ8198,14146342057.0,Orden de dosis no coincide
+M,18-29,Salta,66,Grl. José de San Martín,056,Salta,66,Grl. José de San Martín,056,2021-11-04,Sputnik,2,1ra,18 a 39 años SIN Factores de Riesgo,4,LZR9LZS1,14003719991.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-01-04,Pfizer,14,Refuerzo,60 o más años,4,FL7309,14131049415.0,Orden de dosis no coincide
+M,70-79,Buenos Aires,06,Bragado,112,Buenos Aires,06,Bragado,112,2022-01-04,Pfizer,14,Refuerzo,60 o más años,4,FL7309,14147863957.0,Orden de dosis no coincide
+M,80-89,Buenos Aires,06,Trenque Lauquen,826,Buenos Aires,06,Trenque Lauquen,826,2022-01-04,Pfizer,12,Adicional,60 o más años,3,FJ8198,14007728023.0,Nombre de dosis generica no registrado
+F,40-49,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-09-29,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,087M21A,14045200229.0,Orden de dosis no coincide
+M,40-49,Neuquén,58,Confluencia,035,Neuquén,58,Confluencia,035,2022-04-28,Cansino,14,Refuerzo,SIN Factores de Riesgo,2,NCOV202105009V,14069760171.0,Orden de dosis no coincide
+F,50-59,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-02-17,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FN3815,14016717279.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,La Plata,441,Entre Ríos,30,Gualeguaychú,056,2022-01-10,Pfizer,12,Adicional,50 a 59 años SIN Factores de Riesgo,3,FJ4188,14149551129.0,Nombre de dosis generica no registrado
+F,18-29,Buenos Aires,06,Hipólito Yrigoyen,406,Buenos Aires,06,Hipólito Yrigoyen,406,2022-01-04,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14039690113.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-02-25,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN1455,14131695005.0,Orden de dosis no coincide
+F,70-79,Córdoba,14,Capital,014,Córdoba,14,General San Martín,042,2022-05-17,Moderna ARNm 020 mg mL,14,Refuerzo,Otros,5,940920,14001359023.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,La Plata,441,CABA,02,COMUNA 4,004,2022-07-02,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,087M21A,14156075431.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,La Plata,441,Buenos Aires,06,Ensenada,245,2024-06-19,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,2F3017B,14125698983.0,Orden de dosis no coincide
+M,60-69,Chaco,22,9 de Julio,105,Chaco,22,9 de Julio,105,2022-01-04,AstraZeneca,14,Refuerzo,60 o más años,4,77884,14125894735.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,Quilmes,658,Buenos Aires,06,Quilmes,658,2022-01-20,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14149093453.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,Mar Chiquita,518,Buenos Aires,06,Mar Chiquita,518,2022-02-02,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN3815,14078006481.0,Orden de dosis no coincide
+M,60-69,La Rioja,46,General Belgrano,063,La Rioja,46,General Belgrano,063,2022-01-08,Pfizer,14,Refuerzo,60 o más años,4,FN3815,14045079639.0,Orden de dosis no coincide
+M,70-79,Buenos Aires,06,San Fernando,749,Buenos Aires,06,La Costa,420,2024-04-18,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,2F3017B,14135322041.0,Orden de dosis no coincide
+M,60-69,Córdoba,14,Marcos Juárez,063,Córdoba,14,Marcos Juárez,063,2022-02-11,Pfizer,14,Refuerzo,60 o más años,4,FK8892,14049246957.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,Malvinas Argentinas,515,2022-01-30,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940885,14000801243.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,Chacabuco,210,Buenos Aires,06,Chacabuco,210,2022-01-25,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940915,14152648719.0,Orden de dosis no coincide
+M,30-39,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-17,Sputnik,12,Adicional,Otros,3,MCG7MCG8,14146681003.0,Nombre de dosis generica no registrado
+F,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2022-02-12,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FN1455,14095647659.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,José C. Paz,412,CABA,02,COMUNA 7,007,2024-06-11,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GM6301,14126047209.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-02-23,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN1672,14156514541.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-01-22,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14153644915.0,Orden de dosis no coincide
+M,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-21,Sputnik,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,MBR3MBR4,14095272901.0,Orden de dosis no coincide
+F,60-69,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-01-25,Pfizer,14,Refuerzo,60 o más años,4,FK8892,14149406333.0,Orden de dosis no coincide
+M,12-17,Buenos Aires,06,Chacabuco,210,Buenos Aires,06,Chacabuco,210,2022-03-03,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FP0265,14048058677.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-03-09,Pfizer,14,Refuerzo,60 o más años,4,FP0265,14076578327.0,Orden de dosis no coincide
+F,70-79,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-03-10,AstraZeneca,14,Refuerzo,60 o más años,4,210584,14147266045.0,Orden de dosis no coincide
+M,70-79,Entre Ríos,30,Paraná,084,Entre Ríos,30,Paraná,084,2022-01-04,AstraZeneca,14,Refuerzo,60 o más años,4,NL0181,14135813311.0,Orden de dosis no coincide
+M,50-59,Córdoba,14,Capital,014,Córdoba,14,Río Cuarto,098,2022-01-19,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,14097785519.0,Orden de dosis no coincide
+M,70-79,Río Negro,62,General Roca,042,Neuquén,58,Confluencia,035,2024-03-26,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM6301,2107495.0,Orden de dosis no coincide
+F,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-10,AstraZeneca,14,Refuerzo,60 o más años,4,78214,14142274211.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Baradero,070,Buenos Aires,06,Baradero,070,2022-02-09,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN3815,14022223755.0,Orden de dosis no coincide
+M,50-59,San Juan,70,Capital,028,San Juan,70,Capital,028,2024-05-08,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GM6301,14059515517.0,Orden de dosis no coincide
+M,30-39,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-12,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,14135107051.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2023-10-23,Moderna Bivariante BA 4 5,14,Refuerzo,Estratégico,1,013K22A,14098947293.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,Lanús,434,Buenos Aires,06,General San Martín,371,2022-01-23,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940885,14156208411.0,Orden de dosis no coincide
+M,50-59,Mendoza,50,Rivadavia,084,Mendoza,50,Rivadavia,084,2022-02-14,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,5,940920,14097147543.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,La Plata,441,Buenos Aires,06,Berisso,098,2022-04-03,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FP0265,14071543371.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-01-11,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,14141613809.0,Orden de dosis no coincide
+M,60-69,Salta,66,Grl. José de San Martín,056,Salta,66,Grl. José de San Martín,056,2023-09-21,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,013K22A,14135411463.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,Pilar,638,2022-01-31,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,MBQ6MBQ7,12008106455.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-02-09,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14135951861.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-01-12,Pfizer,14,Refuerzo,60 o más años,4,FJ8198,14092984163.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Trenque Lauquen,826,Buenos Aires,06,Trenque Lauquen,826,2022-02-15,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14069941617.0,Orden de dosis no coincide
+M,70-79,CABA,02,COMUNA 7,007,CABA,02,COMUNA 7,007,2024-02-14,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,003M22A,14127753581.0,Orden de dosis no coincide
+F,50-59,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-27,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14141016647.0,Orden de dosis no coincide
+F,80-89,Santa Fe,82,San Justo,112,Santa Fe,82,San Justo,112,2021-12-15,AstraZeneca,14,Refuerzo,60 o más años,4,NL0053,14123298651.0,Orden de dosis no coincide
+M,70-79,Salta,66,Capital,028,Salta,66,Capital,028,2023-08-23,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM3740,14038661437.0,Orden de dosis no coincide
+F,18-29,Salta,66,Capital,028,Salta,66,Capital,028,2022-02-07,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,4,940920,331735.0,Orden de dosis no coincide
+F,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-03,Sputnik,12,Adicional,60 o más años,3,LYN5LYN6,14048306393.0,Nombre de dosis generica no registrado
+F,70-79,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-12-16,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,045C22A,14045659669.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-02-26,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN1672,14020032159.0,Orden de dosis no coincide
+F,70-79,Santa Fe,82,San Cristóbal,091,Santa Fe,82,San Cristóbal,091,2022-05-31,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14140507139.0,Orden de dosis no coincide
+M,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-04,AstraZeneca,14,Refuerzo,60 o más años,4,78214,14038129839.0,Orden de dosis no coincide
+F,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2022-12-22,Moderna ARNm 020 mg mL,14,Refuerzo,CON Factores de Riesgo,4,007D22A,14142188917.0,Orden de dosis no coincide
+M,12-17,Salta,66,Capital,028,Salta,66,Capital,028,2024-06-19,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,2I003A,12005722991.0,Orden de dosis no coincide
+M,40-49,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2023-05-22,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14060245283.0,Orden de dosis no coincide
+M,70-79,Río Negro,62,General Roca,042,Río Negro,62,General Roca,042,2023-03-28,Pfizer Bivariante BA 4 5,14,Refuerzo,Salud,1,GJ2544,14046286239.0,Orden de dosis no coincide
+M,70-79,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-12-14,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,045C22A,14147533609.0,Orden de dosis no coincide
+M,70-79,Salta,66,Capital,028,Salta,66,Capital,028,2023-05-04,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM3740,14061264421.0,Orden de dosis no coincide
+F,50-59,Mendoza,50,San Martín,098,Mendoza,50,San Martín,098,2021-11-05,AstraZeneca,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,ABZ3413,14096974873.0,Orden de dosis no coincide
+M,12-17,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2023-09-15,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,400123A,12007767719.0,Orden de dosis no coincide
+F,18-29,Córdoba,14,Capital,014,Córdoba,14,San Justo,140,2022-02-23,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,4,940885,14081601699.0,Orden de dosis no coincide
+F,12-17,Buenos Aires,06,Monte,547,Buenos Aires,06,Monte,547,2022-03-19,Moderna ARNm 020 mg mL,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,940915,14066252761.0,Orden de dosis no coincide
+M,30-39,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-21,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14155130979.0,Orden de dosis no coincide
+F,12-17,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-02-24,Moderna ARNm 020 mg mL,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,940885,14057563801.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-03-11,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,12011374297.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,Bragado,112,Buenos Aires,06,Alberti,021,2022-01-07,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,14153951191.0,Orden de dosis no coincide
+M,60-69,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-12-23,Moderna ARNm 020 mg mL,14,Refuerzo,Estratégico,4,045C22A,14095036167.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-01-08,Pfizer,14,Refuerzo,60 o más años,4,FJ8198,14151263445.0,Orden de dosis no coincide
+M,70-79,Santa Fe,82,San Martín,126,Santa Fe,82,San Martín,126,2024-02-05,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,021M22A,14132499665.0,Orden de dosis no coincide
+F,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2024-01-30,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,003M22A,14144590035.0,Orden de dosis no coincide
+F,12-17,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-03-03,Moderna ARNm 020 mg mL,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,940920,14018144195.0,Orden de dosis no coincide
+M,50-59,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-12-20,Moderna ARNm 020 mg mL,14,Refuerzo,Estratégico,4,045C22A,14139712109.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,General San Martín,371,2023-07-05,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,400098A,14156204823.0,Orden de dosis no coincide
+M,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-08,Sputnik,14,Refuerzo,60 o más años,4,MBI3MBI4,14064687999.0,Orden de dosis no coincide
+M,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-02-04,Pfizer,14,Refuerzo,60 o más años,4,FK8892,14092811113.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Lanús,434,Buenos Aires,06,Lomas de Zamora,490,2022-02-21,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN1455,14058873635.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-02-04,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,II-640821,12013567149.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2023-09-22,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,400123A,14131562909.0,Orden de dosis no coincide
+F,70-79,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-02-03,Pfizer,14,Refuerzo,60 o más años,4,FN3815,14148462713.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,Tigre,805,Misiones,54,Guaraní,056,2022-01-17,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,MBJ3MBJ4,14058932283.0,Orden de dosis no coincide
+F,30-39,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2023-09-11,Moderna Bivariante BA 4 5,14,Refuerzo,Otros,1,400123A,14030905119.0,Orden de dosis no coincide
+F,40-49,Salta,66,Capital,028,Salta,66,Capital,028,2022-06-08,Moderna ARNm 020 mg mL,14,Refuerzo,Salud,4,085M21A,14124953457.0,Orden de dosis no coincide
+F,60-69,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-01-03,Sputnik,14,Refuerzo,60 o más años,4,I-590821,14094138679.0,Orden de dosis no coincide
+F,40-49,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-15,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14154307911.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,La Matanza,427,CABA,02,COMUNA 1,001,2023-10-11,Moderna Bivariante BA 4 5,1,Unica,SIN Factores de Riesgo,4,013K22A,14166685913.0,Nombre de dosis generica no registrado
+M,30-39,Buenos Aires,06,Bragado,112,Buenos Aires,06,Bragado,112,2021-12-29,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ4188,14129955235.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,Lanús,434,Buenos Aires,06,General San Martín,371,2022-03-22,Moderna ARNm 020 mg mL,14,Refuerzo,60 o más años,4,940920,14127264845.0,Orden de dosis no coincide
+F,12-17,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-06-30,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,12004667103.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-02-11,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,MCG1MCG2,12013226057.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,Lanús,434,Buenos Aires,06,Pinamar,644,2022-02-17,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14141591715.0,Orden de dosis no coincide
+M,50-59,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-02-14,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FN1672,14038847763.0,Orden de dosis no coincide
+F,80-89,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-31,Moderna ARNm 020 mg mL,14,Refuerzo,60 o más años,4,940920,14060081077.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-02-18,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14098365421.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,Chacabuco,210,Buenos Aires,06,Chacabuco,210,2024-01-23,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,020L22-2A,14132466937.0,Orden de dosis no coincide
+F,70-79,Salta,66,Capital,028,Salta,66,Capital,028,2024-01-19,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,003M22A,14146323237.0,Orden de dosis no coincide
+M,70-79,Buenos Aires,06,Moreno,560,Buenos Aires,06,Luján,497,2024-02-07,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,021M22A,14147469763.0,Orden de dosis no coincide
+F,60-69,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2023-06-08,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14030908413.0,Orden de dosis no coincide
+M,30-39,Salta,66,Capital,028,Salta,66,Capital,028,2023-05-22,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM3740,14146208101.0,Orden de dosis no coincide
+M,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2023-05-15,Pfizer Bivariante BA 4 5,14,Refuerzo,Salud,1,GM3740,14046804833.0,Orden de dosis no coincide
+F,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2024-04-15,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM6301,14146338375.0,Orden de dosis no coincide
+M,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-03,AstraZeneca,14,Refuerzo,60 o más años,4,78214,14142837133.0,Orden de dosis no coincide
+F,50-59,Salta,66,Rosario de la Frontera,140,Salta,66,Capital,028,2022-02-14,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FN1455,14010550287.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,José C. Paz,412,CABA,02,COMUNA 4,004,2022-11-30,Moderna ARNm 020 mg mL,14,Refuerzo,Viaje,1,068B22A,14100238643.0,Orden de dosis no coincide
+F,40-49,Salta,66,Capital,028,Salta,66,Capital,028,2022-07-08,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,087M21A,14042343465.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2024-04-12,Pfizer Bivariante BA 4 5,14,Refuerzo,Salud,1,2F3017B,14147328599.0,Orden de dosis no coincide
+F,80-89,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-04-28,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,053M21A,14132899073.0,Orden de dosis no coincide
+F,60-69,Catamarca,10,Tinogasta,105,Catamarca,10,Tinogasta,105,2024-04-12,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,2I003A,14037901949.0,Orden de dosis no coincide
+M,70-79,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-04-22,Cansino,14,Refuerzo,CON Factores de Riesgo,2,NCOV202105009V,14145056783.0,Orden de dosis no coincide
+F,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2023-03-27,Sputnik Light,14,Refuerzo,SIN Factores de Riesgo,2,L-050722,14127048967.0,Orden de dosis no coincide
+F,30-39,Salta,66,Capital,028,Salta,66,Capital,028,2023-05-20,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM3740,14023209463.0,Orden de dosis no coincide
+M,18-29,Río Negro,62,9 de Julio,049,Río Negro,62,25 de Mayo,091,2022-02-04,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,5,940920,14134888443.0,Orden de dosis no coincide
+F,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-02-12,Pfizer,14,Refuerzo,60 o más años,4,FN1672,14148815539.0,Orden de dosis no coincide
+M,60-69,Córdoba,14,Santa María,147,Córdoba,14,Santa María,147,2022-01-07,AstraZeneca,14,Refuerzo,60 o más años,4,NN0195,14050211329.0,Orden de dosis no coincide
+F,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-02-19,Pfizer,14,Refuerzo,60 o más años,4,FN0087,14154401533.0,Orden de dosis no coincide
+F,18-29,Santiago del Estero,86,Pellegrini,133,Santiago del Estero,86,Pellegrini,133,2022-02-14,Sputnik,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,6,II-640821,14058343941.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-01-10,Pfizer,14,Refuerzo,60 o más años,4,FK8892,14091654867.0,Orden de dosis no coincide
+F,50-59,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-02-01,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940920,14097148983.0,Orden de dosis no coincide
+F,70-79,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-01-21,Sputnik,14,Refuerzo,60 o más años,4,MBQ9MBR1,14020276017.0,Orden de dosis no coincide
+F,30-39,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-19,Sputnik,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,6,MCG7MCG8,14130952829.0,Orden de dosis no coincide
+F,70-79,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2023-01-12,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,005D22A,14144347677.0,Orden de dosis no coincide
+F,60-69,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2024-05-28,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM6301,14020407759.0,Orden de dosis no coincide
+F,30-39,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2023-01-03,Moderna ARNm 020 mg mL,14,Refuerzo,Salud,4,005D22A,14070979861.0,Orden de dosis no coincide
+M,40-49,Córdoba,14,San Justo,140,Córdoba,14,San Justo,140,2023-02-17,Pfizer Bivariante BA 4 5,14,Refuerzo,Otros,1,GJ2544,14133301651.0,Orden de dosis no coincide
+F,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2024-04-15,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GM6301,14133318341.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Presidente Perón,648,2022-03-04,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FP0265,14151285323.0,Orden de dosis no coincide
+M,50-59,Córdoba,14,Colón,021,Córdoba,14,Colón,021,2022-01-07,Pfizer,12,Adicional,18 a 59 años CON Factores de Riesgo,3,FK8888,14098734795.0,Nombre de dosis generica no registrado
+F,40-49,Córdoba,14,Capital,014,Córdoba,14,General San Martín,042,2022-12-19,Moderna ARNm 020 mg mL,14,Refuerzo,Otros,5,045C22A,14100989139.0,Orden de dosis no coincide
+F,90-99,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-01-09,Sputnik,14,Refuerzo,60 o más años,4,MCY8MCY9,14095108615.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2023-02-07,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GJ2544,12001593321.0,Orden de dosis no coincide
+F,50-59,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-21,AstraZeneca,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,78214,14070491455.0,Orden de dosis no coincide
+M,40-49,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-06-03,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,053M21A,14012076697.0,Orden de dosis no coincide
+F,70-79,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-07,Pfizer,14,Refuerzo,60 o más años,4,FN3815,14141406853.0,Orden de dosis no coincide
+M,50-59,Córdoba,14,Capital,014,Córdoba,14,Santa María,147,2022-02-04,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14083640533.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-01-21,Pfizer,14,Refuerzo,60 o más años,4,FN1672,14150712777.0,Orden de dosis no coincide
+F,90-99,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2022-01-19,Moderna ARNm 020 mg mL,14,Refuerzo,60 o más años,4,940885,14099171881.0,Orden de dosis no coincide
+F,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-27,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940920,14097285813.0,Orden de dosis no coincide
+M,40-49,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2023-04-11,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14156069675.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,Berazategui,091,Buenos Aires,06,Berazategui,091,2022-01-06,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14155177763.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,Luján,497,Buenos Aires,06,Luján,497,2022-03-12,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14097547795.0,Orden de dosis no coincide
+F,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2023-06-08,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM3740,14061040439.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Trenque Lauquen,826,Buenos Aires,06,Trenque Lauquen,826,2022-06-15,Cansino,14,Refuerzo,Estratégico,2,NCOV202109013VT,14140635395.0,Orden de dosis no coincide
+M,<12,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2022-06-14,Pfizer Pediátrica,12,Adicional,CON Factores de Riesgo,3,FN4073,14058630567.0,Nombre de dosis generica no registrado
+F,30-39,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2022-03-23,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940885,14143606659.0,Orden de dosis no coincide
+M,50-59,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-03,AstraZeneca,12,Adicional,50 a 59 años SIN Factores de Riesgo,3,78214,14071017497.0,Nombre de dosis generica no registrado
+M,30-39,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-10-25,Cansino,3,2da,Otros,4,NCOV202110014VT,14076262467.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,La Costa,420,CABA,02,COMUNA 4,004,2022-12-05,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14138319467.0,Orden de dosis no coincide
+M,70-79,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-01-10,Pfizer,14,Refuerzo,60 o más años,4,FJ8198,14123247877.0,Orden de dosis no coincide
+M,50-59,Córdoba,14,San Justo,140,Córdoba,14,San Justo,140,2022-01-13,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14096684515.0,Orden de dosis no coincide
+F,60-69,Córdoba,14,Colón,021,Córdoba,14,Colón,021,2022-06-30,Moderna ARNm 020 mg mL,14,Refuerzo,Otros,5,085M21A,215447.0,Orden de dosis no coincide
+M,30-39,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-02-26,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FP0265,14137700765.0,Orden de dosis no coincide
+F,60-69,CABA,02,COMUNA 12,012,CABA,02,COMUNA 4,004,2023-07-06,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GK4367,14158871397.0,Orden de dosis no coincide
+F,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-15,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FN1672,14063397771.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,Carlos Tejedor,154,Buenos Aires,06,Carlos Tejedor,154,2022-01-13,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,14095023917.0,Orden de dosis no coincide
+F,50-59,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-09,AstraZeneca,12,Adicional,50 a 59 años SIN Factores de Riesgo,3,78214,14095716809.0,Nombre de dosis generica no registrado
+F,80-89,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-01-12,Pfizer,14,Refuerzo,60 o más años,4,FK8892,14050151249.0,Orden de dosis no coincide
+F,80-89,Buenos Aires,06,Salliqueló,721,Buenos Aires,06,Salliqueló,721,2024-03-05,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,003M22A,14047262943.0,Orden de dosis no coincide
+F,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-18,Sputnik,14,Refuerzo,60 o más años,7,MCG7MCG8,14048599803.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Bragado,112,Buenos Aires,06,Bragado,112,2022-02-13,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,MCG4MCG5,14156800371.0,Orden de dosis no coincide
+M,70-79,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-01-17,Pfizer,14,Refuerzo,60 o más años,4,FK8892,14134868523.0,Orden de dosis no coincide
+M,70-79,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2024-03-15,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,021M22A,14156525233.0,Orden de dosis no coincide
+F,40-49,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-13,AstraZeneca,14,Refuerzo,60 o más años,4,78214,14151617239.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,La Matanza,427,Buenos Aires,06,La Matanza,427,2022-01-11,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,12012669387.0,Orden de dosis no coincide
+F,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2022-04-29,Moderna ARNm 020 mg mL,14,Refuerzo,Estratégico,4,053M21A,14038177961.0,Orden de dosis no coincide
+M,50-59,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-01-11,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,MCH1MCH2,14122948621.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,Lanús,434,CABA,02,COMUNA 4,004,2022-12-06,Moderna ARNm 020 mg mL,14,Refuerzo,Salud,4,068B22A,12008581261.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-01-31,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940915,12013218073.0,Orden de dosis no coincide
+M,18-29,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-01-18,Sputnik,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,6,MBQ9MBR1,-223753.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2023-11-07,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,014K22A,14045636065.0,Orden de dosis no coincide
+M,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-05,AstraZeneca,14,Refuerzo,60 o más años,4,NN0195,14093157371.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,Bolívar,105,Buenos Aires,06,Bolívar,105,2022-01-08,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,14151739917.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,Saladillo,707,Buenos Aires,06,Saladillo,707,2022-01-17,Pfizer,14,Refuerzo,60 o más años,4,FN3815,14048506119.0,Orden de dosis no coincide
+M,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-28,Moderna ARNm 020 mg mL,14,Refuerzo,60 o más años,4,940920,14093550595.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-01-31,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940915,14144361213.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2022-02-17,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14157241303.0,Orden de dosis no coincide
+M,50-59,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-28,AstraZeneca,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,78214,14070695469.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-02-04,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940920,14070753251.0,Orden de dosis no coincide
+M,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-15,Pfizer,14,Refuerzo,60 o más años,4,FL7309,14049174973.0,Orden de dosis no coincide
+M,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-11,Moderna ARNm 020 mg mL,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,940915,14095828313.0,Orden de dosis no coincide
+F,70-79,Chaco,22,12 de Octubre,036,Chaco,22,12 de Octubre,036,2021-12-29,AstraZeneca,14,Refuerzo,60 o más años,4,77884,14136853999.0,Orden de dosis no coincide
+F,50-59,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-01-11,Pfizer,12,Adicional,50 a 59 años SIN Factores de Riesgo,3,FK8892,14150717787.0,Nombre de dosis generica no registrado
+F,70-79,Chaco,22,9 de Julio,105,Chaco,22,9 de Julio,105,2022-01-14,Sputnik,14,Refuerzo,60 o más años,4,MBI6MBI7,13999885469.0,Orden de dosis no coincide
+F,30-39,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-01-29,Sputnik,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,6,MCG7MCG8,14131828915.0,Orden de dosis no coincide
+M,60-69,Mendoza,50,Capital,007,Mendoza,50,Capital,007,2023-07-12,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,2I003A,14018217313.0,Orden de dosis no coincide
+M,30-39,Salta,66,Capital,028,Salta,66,Capital,028,2023-08-31,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GM3740,14038849749.0,Orden de dosis no coincide
+M,40-49,Salta,66,Capital,028,Salta,66,Capital,028,2023-02-13,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14152184063.0,Orden de dosis no coincide
+F,18-29,Salta,66,Capital,028,Salta,66,Orán,126,2023-05-12,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,400098A,14013254939.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,La Plata,441,Buenos Aires,06,Hipólito Yrigoyen,406,2024-02-15,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,003M22A,14017086711.0,Orden de dosis no coincide
+M,70-79,Santiago del Estero,86,General Taboada,077,Santiago del Estero,86,General Taboada,077,2022-12-14,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,045C22A,14042914679.0,Orden de dosis no coincide
+M,30-39,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-12-19,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,045C22A,14060757375.0,Orden de dosis no coincide
+M,50-59,Catamarca,10,Belén,035,Catamarca,10,Belén,035,2022-01-14,Sputnik,12,Adicional,50 a 59 años SIN Factores de Riesgo,3,MCF7MCF8,14095910739.0,Nombre de dosis generica no registrado
+F,80-89,Santa Fe,82,San Justo,112,Santa Fe,82,San Justo,112,2021-12-23,AstraZeneca,14,Refuerzo,60 o más años,4,77906,14138454209.0,Orden de dosis no coincide
+F,50-59,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2023-12-13,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,400123A,14002759333.0,Orden de dosis no coincide
+M,12-17,Buenos Aires,06,Luján,497,Buenos Aires,06,Luján,497,2022-02-10,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FN1672,14157605965.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2022-01-29,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940920,14059917287.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Luján,497,Buenos Aires,06,Luján,497,2022-02-03,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940885,14058813221.0,Orden de dosis no coincide
+M,50-59,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-02-22,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FP0265,14020081381.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,Escobar,252,2022-01-03,Cansino,1,Unica,18 a 39 años SIN Factores de Riesgo,1,NCOV202105007V,14079369917.0,Nombre de dosis generica no registrado
+M,60-69,Catamarca,10,Capayán,042,Catamarca,10,Capayán,042,2022-01-06,AstraZeneca,14,Refuerzo,60 o más años,4,78214,14093313657.0,Orden de dosis no coincide
+F,30-39,Salta,66,Capital,028,Salta,66,Capital,028,2024-04-24,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM6301,14025132213.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-02-13,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14060100105.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,Trenque Lauquen,826,Buenos Aires,06,Trenque Lauquen,826,2022-01-23,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN3815,14141289751.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-01-28,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN3815,14153982761.0,Orden de dosis no coincide
+M,70-79,Salta,66,Capital,028,Salta,66,Capital,028,2021-12-29,Pfizer,14,Refuerzo,60 o más años,4,FL7309,14006383217.0,Orden de dosis no coincide
+M,40-49,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-10,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,78214,14128416863.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,Lanús,434,Buenos Aires,06,Lanús,434,2022-02-12,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14142541203.0,Orden de dosis no coincide
+F,30-39,Salta,66,Capital,028,Salta,66,Capital,028,2023-10-23,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,013K22A,12005725777.0,Orden de dosis no coincide
+F,50-59,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-19,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,78214,14045143133.0,Orden de dosis no coincide
+F,50-59,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-02-18,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FN0087,14043311853.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,La Costa,420,Buenos Aires,06,La Costa,420,2022-01-10,Pfizer,14,Refuerzo,60 o más años,4,FK8892,14149704117.0,Orden de dosis no coincide
+M,18-29,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-12-13,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,045C22A,14140825321.0,Orden de dosis no coincide
+M,30-39,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-07-07,Sputnik,14,Refuerzo,SIN Factores de Riesgo,6,MDN3MDN4,14131550399.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-03-14,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940885,14069207035.0,Orden de dosis no coincide
+M,<12,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-08-31,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14065074825.0,Orden de dosis no coincide
+M,18-29,Salta,66,Capital,028,Salta,66,Capital,028,2022-03-09,Cansino,1,Unica,18 a 39 años SIN Factores de Riesgo,1,NCOV202106035V,14042132309.0,Nombre de dosis generica no registrado
+F,30-39,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-05-24,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,053M21A,14137759311.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2021-12-30,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,14100849901.0,Orden de dosis no coincide
+F,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-02,AstraZeneca,14,Refuerzo,60 o más años,4,78214,14147536423.0,Orden de dosis no coincide
+M,80-89,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-01-05,Pfizer,14,Refuerzo,60 o más años,4,FJ8198,14137625071.0,Orden de dosis no coincide
+F,50-59,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-01-05,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FJ8198,14063432283.0,Orden de dosis no coincide
+M,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-07,AstraZeneca,14,Refuerzo,60 o más años,4,78214,14124457659.0,Orden de dosis no coincide
+M,18-29,Santiago del Estero,86,Choya,063,Santiago del Estero,86,Choya,063,2022-07-13,Cansino,14,Refuerzo,SIN Factores de Riesgo,2,NCOV202110014VT,14011048905.0,Orden de dosis no coincide
+F,12-17,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-09-07,Moderna ARNm 020 mg mL,14,Refuerzo,Otros,5,087M21A,14136380875.0,Orden de dosis no coincide
+M,60-69,San Juan,70,Jáchal,056,San Juan,70,Jáchal,056,2024-04-15,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GM6301,14037289127.0,Orden de dosis no coincide
+M,30-39,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-02-11,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 39 años SIN Factores de Riesgo,4,940885,14048567865.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-02-11,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14137798699.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,Luján,497,Buenos Aires,06,Luján,497,2022-01-20,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14101007601.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-01-03,AstraZeneca,14,Refuerzo,60 o más años,4,77947,14079740689.0,Orden de dosis no coincide
+M,70-79,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-01-31,Sputnik,14,Refuerzo,60 o más años,4,MCF7MCF8,14138074293.0,Orden de dosis no coincide
+M,70-79,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2024-02-28,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,003M22A,14149536727.0,Orden de dosis no coincide
+M,70-79,Chaco,22,Chacabuco,028,Chaco,22,Chacabuco,028,2024-07-18,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,2F3022A,14135696965.0,Orden de dosis no coincide
+F,70-79,Mendoza,50,Guaymallén,028,Mendoza,50,Guaymallén,028,2021-12-30,Sputnik,14,Refuerzo,60 o más años,4,I-590821,14147589637.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,Luján,497,Buenos Aires,06,Luján,497,2022-01-17,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN3815,14151045749.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,Lanús,434,Buenos Aires,06,Pilar,638,2022-02-04,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN3815,14130460793.0,Orden de dosis no coincide
+M,18-29,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-02-11,Pfizer,14,Refuerzo,Viaje,1,FK8892,14071969073.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,La Matanza,427,Buenos Aires,06,La Matanza,427,2022-01-06,Sputnik,14,Refuerzo,60 o más años,4,MCY8MCY9,14091746291.0,Orden de dosis no coincide
+F,40-49,Salta,66,Orán,126,Salta,66,Orán,126,2023-07-11,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM3740,14064933501.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-01-05,Pfizer,14,Refuerzo,60 o más años,4,FL7309,14146589541.0,Orden de dosis no coincide
+F,70-79,Santa Fe,82,San Lorenzo,119,Santa Fe,82,San Lorenzo,119,2024-02-06,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,021M22A,14008514433.0,Orden de dosis no coincide
+F,18-29,Salta,66,Capital,028,Salta,66,Capital,028,2022-08-30,Moderna ARNm 020 mg mL,14,Refuerzo,CON Factores de Riesgo,4,068B22A,14124532813.0,Orden de dosis no coincide
+F,40-49,Chaco,22,San Lorenzo,147,Chaco,22,San Lorenzo,147,2022-01-24,Cansino,1,Unica,40 a 49 años SIN Factores de Riesgo,1,NCOV202105008V,14009399457.0,Nombre de dosis generica no registrado
+M,50-59,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-03-04,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14070777261.0,Orden de dosis no coincide
+M,70-79,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-12,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14141649741.0,Orden de dosis no coincide
+F,70-79,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-03,Pfizer,14,Refuerzo,60 o más años,4,FL7309,14138416909.0,Orden de dosis no coincide
+F,40-49,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-03-04,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,210581,14018915369.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-03-04,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FP0265,12011942511.0,Orden de dosis no coincide
+M,12-17,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-03-09,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FP0265,14136383613.0,Orden de dosis no coincide
+M,30-39,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-06-01,Pfizer,14,Refuerzo,Otros,4,FT0366,14122979039.0,Orden de dosis no coincide
+M,70-79,Mendoza,50,Guaymallén,028,Mendoza,50,Guaymallén,028,2024-02-16,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,021M22A,14147806555.0,Orden de dosis no coincide
+F,50-59,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-07-20,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14142868575.0,Orden de dosis no coincide
+M,30-39,Santa Fe,82,Rosario,084,Santa Fe,82,Rosario,084,2022-08-18,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14068053087.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-01-05,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,14048947375.0,Orden de dosis no coincide
+F,30-39,Neuquén,58,Confluencia,035,Neuquén,58,Confluencia,035,2022-08-23,Cansino,14,Refuerzo,SIN Factores de Riesgo,2,NCOV202110015VT,14069686571.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-03-29,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940915,14095207545.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2023-03-30,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GK4367,14019335629.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,La Plata,441,CABA,02,COMUNA 4,004,2022-01-12,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FJ8198,14078691051.0,Orden de dosis no coincide
+M,50-59,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-03,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,053M21A,14138362145.0,Orden de dosis no coincide
+F,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2021-12-29,Sputnik,14,Refuerzo,Salud,6,LZR9LZS1,14126051697.0,Orden de dosis no coincide
+M,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-17,Moderna ARNm 020 mg mL,12,Adicional,60 o más años,3,940915,14094692537.0,Nombre de dosis generica no registrado
+M,18-29,Buenos Aires,06,Luján,497,Buenos Aires,06,Luján,497,2022-03-10,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN1455,14079818525.0,Orden de dosis no coincide
+F,50-59,Mendoza,50,Las Heras,049,Mendoza,50,Rivadavia,084,2022-01-07,AstraZeneca,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,78214,14159200339.0,Orden de dosis no coincide
+F,30-39,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-02-25,AstraZeneca,14,Refuerzo,Otros,4,78224,14128621981.0,Orden de dosis no coincide
+F,50-59,Santa Fe,82,Iriondo,056,Santa Fe,82,Iriondo,056,2022-03-03,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FP0265,14152175951.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,Chacabuco,210,Buenos Aires,06,Chacabuco,210,2022-01-06,Pfizer,14,Refuerzo,60 o más años,4,FL7309,14092764651.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,Lanús,434,Buenos Aires,06,Lanús,434,2022-01-05,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,77906,14154795937.0,Orden de dosis no coincide
+S.I.,<12,Salta,66,Rosario de la Frontera,140,Salta,66,Rosario de la Frontera,140,2022-07-12,Pfizer Pediátrica,14,Refuerzo,SIN Factores de Riesgo,3,FR8392,12007121335.0,Sexo no especificado
+F,40-49,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-06-04,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14008977937.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,Bragado,112,Buenos Aires,06,Bragado,112,2022-01-08,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14135794573.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,Bragado,112,Buenos Aires,06,Bragado,112,2022-01-03,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14008631329.0,Orden de dosis no coincide
+M,60-69,Buenos Aires,06,General La Madrid,322,Buenos Aires,06,General La Madrid,322,2022-01-03,AstraZeneca,14,Refuerzo,Otros,4,NL0053,14076869743.0,Orden de dosis no coincide
+M,60-69,Santa Fe,82,General López,042,Santa Fe,82,General López,042,2022-01-11,Pfizer,12,Adicional,60 o más años,3,FJ8198,14093651605.0,Nombre de dosis generica no registrado
+M,50-59,Río Negro,62,General Roca,042,Río Negro,62,General Roca,042,2024-02-27,Moderna Bivariante BA 4 5,14,Refuerzo,Estratégico,1,020L22-2A,14038473001.0,Orden de dosis no coincide
+F,12-17,Salta,66,Capital,028,Salta,66,Capital,028,2024-02-28,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,021M22A,12016296045.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2023-10-06,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,400123A,14059335759.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,Florencio Varela,274,Buenos Aires,06,Florencio Varela,274,2022-01-21,Sputnik,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,II-640821,14140862777.0,Orden de dosis no coincide
+F,12-17,Buenos Aires,06,Bragado,112,Buenos Aires,06,Bragado,112,2022-02-09,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FN3815,12005382841.0,Orden de dosis no coincide
+M,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2024-06-26,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,2I003A,14022613889.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,Berazategui,091,Buenos Aires,06,Quilmes,658,2022-02-02,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940885,14099061901.0,Orden de dosis no coincide
+F,50-59,Buenos Aires,06,Lanús,434,Buenos Aires,06,Lanús,434,2022-01-18,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FL7309,14095243117.0,Orden de dosis no coincide
+M,40-49,Chaco,22,Independencia,070,Chaco,22,Independencia,070,2022-01-18,Cansino,14,Refuerzo,40 a 49 años SIN Factores de Riesgo,2,NCOV202106033V,14125284811.0,Orden de dosis no coincide
+F,30-39,Mendoza,50,Rivadavia,084,Mendoza,50,Rivadavia,084,2024-02-03,Moderna Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,021M22A,12014099293.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,Vicente López,861,Buenos Aires,06,Vicente López,861,2022-03-25,Pfizer,14,Refuerzo,60 o más años,4,FP0265,14147934261.0,Orden de dosis no coincide
+F,40-49,Río Negro,62,General Roca,042,Río Negro,62,General Roca,042,2022-03-25,Moderna ARNm 020 mg mL,14,Refuerzo,40 a 49 años SIN Factores de Riesgo,4,940920,14042118293.0,Orden de dosis no coincide
+M,60-69,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-08,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14150094407.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-03-27,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940915,14079204737.0,Orden de dosis no coincide
+M,18-29,Río Negro,62,General Roca,042,Río Negro,62,General Roca,042,2023-02-10,Pfizer Bivariante BA 4 5,14,Refuerzo,Salud,1,GJ2544,14037635963.0,Orden de dosis no coincide
+M,60-69,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2023-02-16,Pfizer Bivariante BA 4 5,14,Refuerzo,Salud,1,GJ2544,14093085587.0,Orden de dosis no coincide
+F,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2023-05-30,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GM3740,14092782057.0,Orden de dosis no coincide
+M,18-29,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2023-01-16,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,005D22A,14142955345.0,Orden de dosis no coincide
+F,60-69,Santa Fe,82,General López,042,Santa Fe,82,General López,042,2022-05-30,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14150931989.0,Orden de dosis no coincide
+F,60-69,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-12-30,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,045C22A,14146457943.0,Orden de dosis no coincide
+F,80-89,Mendoza,50,Luján de Cuyo,063,Mendoza,50,Luján de Cuyo,063,2024-01-25,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,021M22A,14144839091.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,San Fernando,749,Buenos Aires,06,San Fernando,749,2022-01-08,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FJ8198,14008600639.0,Orden de dosis no coincide
+F,40-49,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2023-02-09,Pfizer Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,GJ2544,14043521541.0,Orden de dosis no coincide
+F,70-79,Salta,66,Capital,028,Salta,66,Capital,028,2024-01-26,Moderna Bivariante BA 4 5,1,Unica,CON Factores de Riesgo,4,021M22A,14144141569.0,Nombre de dosis generica no registrado
+M,60-69,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-05-02,AstraZeneca,14,Refuerzo,Otros,4,210581,2650215.0,Orden de dosis no coincide
+F,30-39,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Río Hondo,147,2022-12-21,Moderna ARNm 020 mg mL,14,Refuerzo,Salud,4,045C22A,14016292487.0,Orden de dosis no coincide
+F,50-59,Entre Ríos,30,San Salvador,088,Entre Ríos,30,San Salvador,088,2022-02-11,Pfizer,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,FN0087,14133202105.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-03-25,Pfizer,14,Refuerzo,60 o más años,4,FP0265,14138055409.0,Orden de dosis no coincide
+F,40-49,Mendoza,50,San Martín,098,Mendoza,50,San Martín,098,2022-06-10,Cansino,14,Refuerzo,SIN Factores de Riesgo,2,NCOV202110014VT,12003923387.0,Orden de dosis no coincide
+F,18-29,Córdoba,14,Capital,014,CABA,02,COMUNA 4,004,2022-02-21,Moderna ARNm 020 mg mL,2,1ra,SIN Factores de Riesgo,1,940920,12013645507.0,ID de persona ya existe en los registros
+M,60-69,Salta,66,Capital,028,Salta,66,Capital,028,2023-04-10,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,400098A,14049501947.0,Orden de dosis no coincide
+F,30-39,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-06-26,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14155351169.0,Orden de dosis no coincide
+F,50-59,Córdoba,14,Capital,014,CABA,02,COMUNA 4,004,2022-01-08,AstraZeneca,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,78224,14072007519.0,Orden de dosis no coincide
+F,60-69,Mendoza,50,Las Heras,049,Buenos Aires,06,General Pueyrredón,357,2022-01-08,Pfizer,14,Refuerzo,60 o más años,4,FK8892,14151348603.0,Orden de dosis no coincide
+F,60-69,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-12-05,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14148449407.0,Orden de dosis no coincide
+F,70-79,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-11-30,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14146460435.0,Orden de dosis no coincide
+F,18-29,Mendoza,50,San Martín,098,Mendoza,50,San Martín,098,2022-01-31,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN3815,14141904263.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,General San Martín,371,2023-05-16,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GM3740,14096499413.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2024-03-11,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,021M22A,14011722705.0,Orden de dosis no coincide
+M,<12,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2024-03-13,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,021M22A,14150839491.0,Orden de dosis no coincide
+F,40-49,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-01-23,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN1672,14148965431.0,Orden de dosis no coincide
+F,30-39,Buenos Aires,06,Mar Chiquita,518,Buenos Aires,06,Mar Chiquita,518,2022-02-09,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN1672,14043815037.0,Orden de dosis no coincide
+F,70-79,Buenos Aires,06,Vicente López,861,Buenos Aires,06,Vicente López,861,2022-01-21,Sputnik,14,Refuerzo,60 o más años,4,II-640821,14128829401.0,Orden de dosis no coincide
+M,70-79,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-01-04,Pfizer,14,Refuerzo,60 o más años,4,FN3815,14007463921.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,Lanús,434,Buenos Aires,06,Lanús,434,2022-01-27,Moderna ARNm 020 mg mL,14,Refuerzo,60 o más años,4,940885,14137274175.0,Orden de dosis no coincide
+M,18-29,Buenos Aires,06,Lanús,434,Buenos Aires,06,Lanús,434,2022-01-24,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN3815,14143522001.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,Guaminí,399,Buenos Aires,06,Guaminí,399,2022-01-17,Moderna ARNm 020 mg mL,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,940885,14078532239.0,Orden de dosis no coincide
+M,40-49,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-22,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14152930551.0,Orden de dosis no coincide
+M,80-89,Salta,66,Molinos,119,Salta,66,Capital,028,2022-01-13,Sputnik,14,Refuerzo,60 o más años,4,MBQ9MBR1,14145800073.0,Orden de dosis no coincide
+F,30-39,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-05-30,Cansino,14,Refuerzo,CON Factores de Riesgo,2,NCOV202106035V,12002514467.0,Orden de dosis no coincide
+F,80-89,San Juan,70,Rivadavia,084,San Juan,70,Capital,028,2024-01-17,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,020L22-2A,14038151949.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2023-06-28,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GJ2544,14094971371.0,Orden de dosis no coincide
+M,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2023-07-14,Pfizer Bivariante BA 4 5,14,Refuerzo,CON Factores de Riesgo,1,GK4367,14144586121.0,Orden de dosis no coincide
+M,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-04,AstraZeneca,14,Refuerzo,60 o más años,4,78214,14045007481.0,Orden de dosis no coincide
+F,60-69,Santa Fe,82,Constitución,028,Santa Fe,82,Constitución,028,2022-01-03,Pfizer,14,Refuerzo,60 o más años,4,FJ4188,14124767271.0,Orden de dosis no coincide
+F,70-79,CABA,02,COMUNA 7,007,CABA,02,COMUNA 4,004,2022-03-09,AstraZeneca,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,210581,14144347677.0,ID de persona ya existe en los registros
+M,40-49,Buenos Aires,06,La Matanza,427,CABA,02,COMUNA 4,004,2022-06-21,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,085M21A,14137542227.0,Orden de dosis no coincide
+M,50-59,Buenos Aires,06,Chivilcoy,224,Buenos Aires,06,Chivilcoy,224,2022-06-24,Cansino,14,Refuerzo,Salud,2,NCOV202109013VT,14047026861.0,Orden de dosis no coincide
+M,40-49,Buenos Aires,06,La Matanza,427,Buenos Aires,06,La Matanza,427,2024-01-23,Moderna Bivariante BA 4 5,14,Refuerzo,Estratégico,1,003M22A,14138720093.0,Orden de dosis no coincide
+F,30-39,La Rioja,46,Capital,014,La Rioja,46,Capital,014,2022-07-27,Sputnik,14,Refuerzo,SIN Factores de Riesgo,6,MDN3MDN4,14030892889.0,Orden de dosis no coincide
+M,70-79,Santiago del Estero,86,Capital,049,Santiago del Estero,86,Capital,049,2022-09-08,Moderna ARNm 020 mg mL,14,Refuerzo,SIN Factores de Riesgo,4,068B22A,14091182923.0,Orden de dosis no coincide
+F,70-79,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-05,Sputnik,14,Refuerzo,60 o más años,4,I-590821,14083038881.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-03-02,Cansino,1,Unica,18 a 39 años SIN Factores de Riesgo,1,NCOV202105007V,14139208127.0,Nombre de dosis generica no registrado
+F,70-79,Tucumán,90,Yerba Buena,119,Tucumán,90,Yerba Buena,119,2022-01-07,AstraZeneca,14,Refuerzo,60 o más años,4,77947,14133859071.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-01-15,Pfizer,14,Refuerzo,60 o más años,4,FJ8198,14093816179.0,Orden de dosis no coincide
+M,50-59,Córdoba,14,Capital,014,Córdoba,14,Capital,014,2022-01-10,AstraZeneca,14,Refuerzo,Otros,4,78214,14067099957.0,Orden de dosis no coincide
+F,18-29,Buenos Aires,06,José C. Paz,412,Buenos Aires,06,José C. Paz,412,2022-02-06,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14156288483.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-02-14,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14137742609.0,Orden de dosis no coincide
+M,30-39,Buenos Aires,06,Hurlingham,408,Buenos Aires,06,Hurlingham,408,2022-01-13,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FK8892,14145023879.0,Orden de dosis no coincide
+S.I.,<12,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-25,Sinopharm,3,2da,3 a 11 años SIN Factores de Riesgo,2,202108B2549,14121467415.0,Sexo no especificado
+F,60-69,Buenos Aires,06,Bragado,112,Buenos Aires,06,Bragado,112,2022-01-10,Pfizer,14,Refuerzo,60 o más años,4,FJ8198,14148887229.0,Orden de dosis no coincide
+M,70-79,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2024-01-23,Moderna Bivariante BA 4 5,14,Refuerzo,SIN Factores de Riesgo,1,003M22A,14146516535.0,Orden de dosis no coincide
+F,40-49,Salta,66,Capital,028,Salta,66,Capital,028,2022-01-19,Pfizer,12,Adicional,18 a 59 años CON Factores de Riesgo,3,FN1672,14038374371.0,Nombre de dosis generica no registrado
+M,18-29,Buenos Aires,06,La Plata,441,Buenos Aires,06,La Plata,441,2022-02-18,Pfizer,14,Refuerzo,18 a 59 años CON Factores de Riesgo,4,FN0087,14081746725.0,Orden de dosis no coincide
+F,12-17,Buenos Aires,06,Monte,547,Buenos Aires,06,Monte,547,2022-02-09,Pfizer,14,Refuerzo,12 a 17 años CON Factores de Riesgo,4,FN3815,14045566183.0,Orden de dosis no coincide
+M,50-59,Salta,66,Capital,028,Salta,66,Capital,028,2022-11-18,Moderna ARNm 020 mg mL,14,Refuerzo,Estratégico,4,045C22A,14098364327.0,Orden de dosis no coincide
+F,60-69,Buenos Aires,06,Lanús,434,Buenos Aires,06,Lanús,434,2022-01-15,Sputnik,14,Refuerzo,60 o más años,4,MDB3MDB4,13783.0,Orden de dosis no coincide
+F,50-59,San Juan,70,Capital,028,San Juan,70,Capital,028,2022-01-17,Moderna ARNm 020 mg mL,14,Refuerzo,50 a 59 años SIN Factores de Riesgo,4,940915,12015250335.0,Orden de dosis no coincide
