@@ -105,7 +105,7 @@ class VerificadorCSV:
                 paciente_observacion = "Nombre de dosis generica no registrado"
             
             ##verificación orden dosis
-            if paciente['nombre_dosis_generica'] in self.cod_dosis_generica_list:
+            if paciente['nombre_dosis_generica'] in self.orden_dosis_list:
                 id_esperado = self.orden_dosis_list[paciente['nombre_dosis_generica']]
                 if paciente['orden_dosis'] != id_esperado:
                     paciente_observacion = "Orden de dosis no coincide"

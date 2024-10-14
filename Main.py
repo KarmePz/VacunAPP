@@ -35,7 +35,6 @@ print("\n\n\tLECTURA DE DATOS\n\n")
 print("-------------------------------------------------------") 
 
 #Lista de diccionarios
-print(datos_pacientes.__class__)
 
 print("\n\nANÁLISIS DE CANTIDAD POR GÉNERO\n\n")
 Analizar(pathCsv,'sexo')
